@@ -1,0 +1,9 @@
+Count: 33	Author: Лина Панченко
+Count: 28	Author: Павел Евстигнеев
+Count: 27	Author: Анастасия Кукова
+Count: 10	Author: Арсений Томин
+Count: 8	Author: MK.RU
+Count: 8	Author: Евгений Расковалов
+Count: 7	Author: Остап Жуков
+Count: 6	Author: Михаил Верный
+Count: 2	Author: 
